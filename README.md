@@ -1,1 +1,1 @@
-<a href="pdfs/ProjMarr_slides.pd" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+(https://github.com/user-attachments/files/21803423/TarunDheerajTanoojSgReport.1.pdf)
