@@ -1,7 +1,9 @@
 # Electricity Consumption Prediction & Billing Analysis
 
 Website:- https://tarungangadhar.github.io/MonthlyUnitsPredictionWebsite/
-Report:- 
+
+Report:- https://github.com/tarungangadhar/MonthlyUnitsPrediction/blob/main/docs/ElectricityConsumptionPrediction.pdf
+
 Colab:- https://colab.research.google.com/drive/12EpFp8j5ocAuaBjxCUslVRxjsh1USMNL?usp=sharing
 
 This project predicts monthly electricity consumption for ~190 quarters over 12 years of college data (2012–2023) and estimates bills using machine learning.
