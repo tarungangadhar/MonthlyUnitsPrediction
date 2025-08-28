@@ -27,4 +27,5 @@ Using **linear** and **polynomial regression**, the system forecasts electricity
 | Linear Regression    | 92–94%   |
 | Polynomial (deg=6)   | 95–96%   |
 
-![Forecast Example](assets/results_plot.png)
+![Linear Regression Example](assets/results_linear.png)
+![Polynomial Regression Example](assets/results_polynomial.png)
